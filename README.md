@@ -1,8 +1,11 @@
+![assetmate](https://github.com/user-attachments/assets/2eee0d0f-ab5b-4090-8083-fc72cbd4d5d4)
+
 # 📦 AssetMate
 <div align="center"><img src=""></div>
 **Easily Add Assets to Your Flutter Project**
 
-![AssetMate Banner](https://via.placeholder.com/1000x300?text=AssetMate)
+
+![screenshot](https://github.com/user-attachments/assets/1fbbe19d-bcda-48ee-bf68-a51cb6965eec)
 
 ## 🚀 Overview
 AssetMate is a simple and efficient tool designed to make adding assets to your Flutter project seamless and hassle-free its open source and free for anyone to use.
