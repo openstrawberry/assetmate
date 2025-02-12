@@ -17,9 +17,6 @@ AssetMate is a simple and efficient tool designed to make adding assets to your 
 ## 🏗️ Tech Stack
 - **Technology:** Flutter
 
-## 📸 Screenshots
-![Asset Adding](https://via.placeholder.com/600x300?text=Asset+Adding)
-
 ## 📦 Installation
 ```bash
 git clone https://github.com/txorav/assetmate.git
